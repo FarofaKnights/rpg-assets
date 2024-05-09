@@ -1,0 +1,11 @@
+Andar
+Correr
+Sofrer ataque
+Morrer
+Descansar
+Idle
+Ataque arma leve
+Ataque arma pesada
+Ataque especial com braço
+Cair
+Defender

@@ -1,0 +1,53 @@
+- 5 variações de prédios genericos, repetiveis em outras fases
+- 3 predios unicos (ponto de referencia)
+- Ponte destruida
+- Um pequeno prédio entravel com multiplos niveis, cada nivel corresponde a uma loja (exemplo: uma loja de boxe com o robo boxeador), lembrar de colocar faxadas correspondentes as lojas no exterior, as Faxadas são holograficas, estão meio destruidas, então o texto está incompleto e incorreto
+- Hidrante
+- Poste normal
+- Poste danificado
+- 5 variações de carros destruidos, repetiveis em outras fases
+- 3 variações de prédios destruidos
+- 5 variações de entulhos
+- Uma limosine
+- Partes de robôs destruidos
+- Um prédio gigantesco muito foda
+- Discutir com o Claudio o que vai ter dentro do prédio, adicionar assets relevantes
+- Casas simples, entraveis
+- Casas um pouco maiores com cercas baseadas em tecnologia atras, marcando um jardim, entraveis
+- Triplex
+- Sofa (Apenas um)
+- Fogão
+- Microondas
+- Guarda roupas
+- Cama de casal
+- Latas de comida (Podem inventar nome)
+- Mesinhas
+- Banheira
+- Pia
+- Vaso sanitario
+- armario de cozinha
+- Armario de cozinha
+- Cadeiras
+- Plantas/ arvores sinteticas
+- Lampadas
+- Porta de madeira
+- Mesh em forma de cadaver (não precisa ser detalhada)
+- Macacão cinza
+- Fit social (camisa social branca, calça Jeans, sapato social
+- Fit social com calça social, Blazer e gravata
+- Barricadas
+- Logo da Mach-nax (a grande emprese monopolica que fez todos os robos)
+- Mach-coins (moedas com a logo da Mach-nax)
+- - Cubiculo de escritorio
+- PC
+- Variaçõa de PC quebrado
+- Acessorios de PC (mouse, teclado, etc)
+- Acessorios de PC quebrados
+- Cadeira de escritorio
+- Mesa de trabalho
+- Porta de vidro
+- KeyCards
+- Porta de cofre
+- Barra de ouro
+- Bebedouro
+- Posteres motivacionais
