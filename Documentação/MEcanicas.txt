@@ -1,0 +1,4 @@
+Mecanicas da fabrica
+Esteiras que puxam o jogador em uma direção
+Plataformas que se mexem (podem barrar caminhos e dano, ou o jogador fica encima delas pra se mexer e ir para outro lugar.
+Grande correnteza de ferro derretido que causa dano no jogador, ele tem que se esconder atras de algum obstaculo, ou fora do caminho para desviar.
