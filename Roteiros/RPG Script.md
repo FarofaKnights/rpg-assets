@@ -119,82 +119,128 @@ todas as tragedias que estão prestes a acontecer Uma imagem de uma
 cidade sendo dividida no meio por uma fenda gigantesca Narrador
 Lembrem-se quando o frio vier Uma imagem de uma nevasca em uma cidade
 destruida Narrador A terra terá tanta misericordia com vocês quanto
-vocês tiveram com ela Quests Cidade Por enquanto (para a build) eu vou
-escrever só uma quest para cada um dos personagens, mais outras opções
-de dialogo Primeira interação - Adrian
+vocês tiveram com ela CIDADE
 
-Adrian Aqueles barulhos do outro lado do tunel, foi você? Opção1 Sim
+ADrian
 
-Adrian Devia saber. Bem, eu recomendo que você descanse perto do
-aquecedor, você não vai encontra muitos por ai Resultado: Sai do dialogo
-e libera outra interação Dialogos Na cidade - ADRIAN Adrian Algo em
-mente? Opção1 Precisa de ajuda? Adrian Já que você perguntou... O meu
-tanque de oxigênio tá acabando, normalmente eu mesmo acharia outro, mas
-bem... eu tenho bem pouco tempo restante Player (opção unica) Onde eu
-posso encontrar o tanque? Adrian Perto do prédio da Caduceu é a nossa
-melhor chance Resultado: Libera opção de dialogo 4, direciona pra quest
-e sai do dialogo A quest é uma fetch, encontrar algo para ele. O item
-pode ser encontrado antes de conversar com ele tbm Tendo o item em mãos
-libera a opção de dialogo 5 Opção2 Você quer sair da cidade? Adrian E
-você não? olha em volta, tudo destruido, todo mundo morto... Eu não como
-já tem alguns dias, lá fora pode até estar igual, eu sei, mas eu prefiro
-me arriscar saindo do que me arriscar ficando Resultado: Volta pro
-dialogo Opção3 O que aconteceu com você? Adrian Eu nunca te contei? Não
-é exatamente uma historia curta, tem certeza que você quer escutar?
-Opção3.1 Sim Adrian Desde antes do frio, eu era um caminhoneiro, sabe?
-Tinham se passado apenas alguns dias que o frio tinha começado, eu parei
-pra reabastecer, e foi ai que aconteceu, uma emboscada, não sei quantos
-deles, mais do que eu podia contar, a primeira vez que eu precisei usar
-meu rifle para algo além de tiro ao alvo. De alguma maneira eu
-sobrevivi, eu posso ser um otimo atirador, um otimo caminhoneiro, mas eu
-com certeza não sou médico, eu fiz o que pude. O resultado você consegue
-ver Resultado: Volta pra seleção de dialgo Opção3.2 Não Adrian Sem
-problemas Resultado: Sai do dialogo Opção4 Caduceu? Adrian Você tem
-morado debaixo de uma pedra? A unica empresa de remedios disponivel,
-dona de todos hospitais existentes, ela tinha um nome diferente,
-cura-mais, ou algo do tipo antes de ser comprado pela PantheON
-resultado: Volta pra escolha de dialogo Opção5 É esse o tanque? Adrian
-Exato! Muito obrigado amigo Resultado: Sai do dialogo + alguma
-recompensa Primeira interação - Vendedor Começa com o vendedor em cima
-de um carro, cercado por robôs malignos A quest é o Player matar os
-inimigos Depois deles mortos começa a cutcene: Vendedor Ah, você, mais
-uma vez você me salvou do perigo \*POR QUE DEMOROU TANTO???\* estou
-grato, amigo, muito grato, me encontre na minha loja e eu te dou um
-desconto em tudo \*MENTIRA\* Indo pra loja do vendedor, tem mais
-interações Dialogos Na cidade - VENDEDOR Vendedor Bom dia, amigo
-\*COMPRA OU VAZA\*, quer olhar o meu estoque? Opção1 Sim Resultado:
-Abrir a loja Opção2 Não Vendedor \*PÉ RAPADO\* volte sempre Resultado:
-Encerra a interação Opção3 Você vai me contar o seu nome agora? Vendedor
-Quantos vezes eu tenho que dizer? O meu nome \*NÃO É DA SUA CONTA\* é
-uma informação irrelevante. Agora você vai comprar algo ou não?
-Resultado: Você pras opções de dialogo Primeira interação - CAÇAdora de
-ciborgues
+Cutscene de introdução Inicia quando o Player se aproxima dele na parte
+esquerda da primeira metade da cidade, perto de onde (eu imagino que) o
+guindaste vai estar A gente tá vendo o Protagonista pela terceira pessoa
+nas costas enquanto ele se aproxima do Adrian O Adrian puxa a sniper e
+mira na direção do protagonista O protagonista para e coloca a mão na
+espada Zoom no rosto do Adrian Zoom na sniper dele Ele coloca uma bala
+na sniper e atira Corta pra um angulo onde dá pra ver o protagonista e o
+Adrian de lado A gente vê também o rastro da bala passando por cima do
+ombro do protagonista A camera move um pouco pra trás, permitindo que a
+gente veja um robô caindo atrás do protagonista O protagonista anda um
+pouco mais perto do Adrian enquanto ele abaixa a sniper Adrian Aqueles
+barulhos do outro lado do tunel, foi você? Opção1 Sim Adrian Devia
+saber. Bem, o caminho pro outro lado da cidade tá bloqueado, (Tosse) eu
+recomendaria usar o guindaste, mas a bateria dele acabou. Deixa eu te
+perguntar: Você vai sair da cidade? Opção1 Sim Adrian Eu também, vamos
+não se atrapalhar, beleza? (Tosse) Opção2 Não sei ainda Adrian Eu me
+decidiria rápido, não tem muito o que fazer aqui (Tosse) Resultado:
+Libera interação com ele Dialogos Na cidade - ADRIAN Adrian Algo em
+mente? Opção1 Precisa de ajuda?
 
-CdC Obvio que você ia chegar também, os poucos que restam, todos juntos
-pertos de um aquecedor, vocês me enojam. Tá vendo aquele prédio caido?
-Eu preciso discutir algo com você, me encontre lá. Resultado: Libera a
-quest dela e as outras interações A quest consiste em ir no preédio
-caido, lá acontece a cutscene que o Iago, o Adão e eu discutimos
-Dialogos Na cidade - CAÇADORA DE CIBORGUES Cdc O que? Opção1 O que você
-tá fazendo aqui? Cdc Descansando, me aquecendo, aproveitando a companhia
-de abominações, não se preocupe, eu não vou ficar por muito tempo Opção2
-Como você perdeu o seu braço? Cdc Do mesmo jeito que você perdeu o seu,
-robôs malditos, criados por uma empresa maldita Opção3 O que você quer?
-Cdc Eu? Eu quero achar o responsavel por isso tudo e faze-lo pagar. Nada
-mais, nada menos Player (opção Unica) E depois? Cdc Não existe depois
-Cutscene - cidade - CAÇADORA DE CIBORGUES O robô de boxe e o de esgrima
-estão lutando A caçadora de ciborgues chega e mata os dois Resultado:
-Libera interação com ela no prédio quebrado Dialogos No predio quebrado
-na cidade - CAÇADORA DE CIBORGUES Cdc Eu tive que matar para sobreviver,
-pessoas, não robôs. E você, o quao longe você foi pra chegar até aqui?
-Opção1 Eu já matei Cdc Pelo menos você é honesto. É essa cidade, nunguém
-que ainda está vivo é humano, você talvez chegue perto, chegaria, se não
-fossem esses implantes Opção2 Eu roubei Cdc Como você pode dizer isso
-com este corpo robotico? você vioulou o seu proprio corpo, vendeu a sua
-propria humanidade, para os responsaveis pelo fim do meu mundo, pela
-morte de todos que eu conhecia Player (opção Unica) O que você está
-tentando dizer? Cdc Todos nós nos perdemos aqui. Se existe a chance de
-algo puro lá fora, eu não vou arriscar que alguém infecte o resto mundo
-com essa doença que nós carregamos. Você me ajudou algumas vezes, então
-eu estou te avisando: Se você tentar sair da cidade, eu vou te matar
-Fade out E ela some até o final da fase do prédio
+Adrian (Tosse)Já que você perguntou... O meu tanque de oxigênio tá
+acabando, normalmente eu mesmo acharia outro, mas bem... eu tenho bem
+pouco tempo restante Player (opção unica) Onde eu posso encontrar o
+tanque? Adrian Perto do prédio da Caduceu é a nossa melhor chance
+Resultado: Libera opção de dialogo 4, direciona pra quest e sai do
+dialogo A quest é uma fetch, encontrar algo para ele. O item pode ser
+encontrado antes de conversar com ele tbm O item tá no lado oposto da
+cidade Tendo o item em mãos libera a opção de dialogo 5 Opção2 Você quer
+sair da cidade? Adrian E você não? olha em volta, tudo destruido, todo
+mundo morto... Eu não como já tem alguns dias, lá fora pode até estar
+igual, eu sei, mas eu prefiro me arriscar saindo do que me arriscar
+ficando Resultado: Volta pro dialogo Opção3 O que aconteceu com você?
+Adrian Eu nunca te contei? Não é exatamente uma historia curta, tem
+certeza que você quer escutar? Opção3.1 Sim Adrian Desde antes do frio,
+eu era um caminhoneiro, sabe? Tinham se passado apenas alguns dias que o
+frio tinha começado, eu parei pra reabastecer, e foi ai que aconteceu,
+uma emboscada, não sei quantos deles, mais do que eu podia contar, a
+primeira vez que eu precisei usar meu rifle para algo além de tiro ao
+alvo. De alguma maneira eu sobrevivi, eu posso ser um otimo atirador, um
+otimo caminhoneiro, mas eu com certeza não sou médico, eu fiz o que
+pude. O resultado você consegue ver Resultado: Volta pra seleção de
+dialgo Opção3.2 Não Adrian Sem problemas Resultado: Sai do dialogo
+Opção4 Caduceu? Adrian Você tem morado debaixo de uma pedra? A unica
+empresa de remedios disponivel, dona de todos hospitais existentes, ela
+tinha um nome diferente, cura-mais, ou algo do tipo antes de ser
+comprado pela PantheON resultado: Volta pra escolha de dialogo Opção5 É
+esse o tanque? Adrian Exato! Muito obrigado amigo Resultado: Sai do
+dialogo + alguma recompensa + credito social da avenida
+
+Vendedor
+
+Cutscene de introdução Começa com o vendedor em cima de um carro,
+cercado por robôs malignos na parte da direita na primeira metade da
+cidade O vendedor vê o Protagonista Vendedor Me ajuda \*IMBECIL\* A
+quest é o Player matar os inimigos Depois deles mortos começa um
+dialogo: Vendedor Ah, você, mais uma vez você me salvou do perigo \*POR
+QUE DEMOROU TANTO???\* estou grato, amigo, muito grato, me encontre na
+minha loja e eu te dou um desconto em tudo \*MENTIRA\* Indo pra loja do
+vendedor, tem mais interações Dialogos Na cidade - VENDEDOR Primeira
+Interação: Vendedor Eu ouvi daquela robôzinha \*ESQUISITA\* de um lugar
+onde eu poderia me transformar totalmente em um robô, imagina, não ter
+que comer, \*DEFECAR\*, viver pra sempre Opção1 Tentador Mais um credito
+social Industria Vendedor Eu sei, me lembra de perguntar mais pra ela na
+proxima ver que a gente se ver, minha cabeça tá meio \*VAZIA\* ruim
+Opção2 Parece estranho Mais um credito social avenida Vendedor \*MAIS
+PRA MIM\* se você diz, eu não vou dispensar essa oportunidade Resultado:
+Sai do dialogo
+
+Vendedor Bom dia, amigo \*COMPRA OU VAZA\*, quer olhar o meu estoque?
+Opção1 Sim Resultado: Abrir a loja Opção2 Não Vendedor \*PÉ RAPADO\*
+volte sempre Resultado: Encerra a interação Opção3 Você vai me contar o
+seu nome agora? Vendedor Quantos vezes eu tenho que dizer? O meu nome
+\*NÃO É DA SUA CONTA\* é uma informação irrelevante. Agora você vai
+comprar algo ou não? Resultado: Volta pras opções de dialogo
+
+CAÇADORA DE CIBORGUES
+
+Cutscene de introdução Ela tá no prédio caído, na parte de dentro de
+onde ela tá atualmente na segunda parte da quest O robô de boxe e o de
+esgrima estão lutando Robo Boxe Eu sou o campeão! Robo Esgrima Defesa,
+ataque, ataque, defesa! Robo Boxe Você não consegue me vencer! Robo
+Esgrima Melhore sua postura! A caçadora de ciborgues chega e mata os
+dois Cdc Você parece mais robotico que da ultima vez que eu te vi Ela e
+anda pra parte de fora do prédio Cdc Eu já matei, pessoas, não robôs. E
+você, o quao longe você foi pra chegar até aqui? Opção1 Eu já matei Mais
+um credito social Industria Cdc Pelo menos você é honesto. Opção2 Eu
+roubei Mais um credito social avenida
+
+Cdc Você vioulou o seu proprio corpo, vendeu a sua propria humanidade
+para os responsaveis pelo fim do mundo. Roubo não é nada comparado a
+isso Player (opção Unica) O que você está tentando dizer? Cdc É essa
+cidade, nunguém que ainda está vivo é humano. Se existe a chance de algo
+puro lá fora, eu não vou arriscar que alguém infecte o resto mundo com
+essa doença que nós carregamos. Opção1 Eu entendo Mais um credito social
+Industria Opção2 Fale por si propria Cdc Você me ajudou algumas vezes,
+então eu estou te avisando: Se você tentar sair da cidade, eu vou te
+matar Resultado: Libera interação com ela Dialogos Na cidade - CAÇADORA
+DE CIBORGUES Cdc O que? Opção2 Como você perdeu o seu braço? Cdc Do
+mesmo jeito que você perdeu o seu, robôs malditos, criados por uma
+empresa maldita Opção3 O que você quer? Cdc Eu? Eu quero achar o
+responsavel por isso tudo e faze-lo pagar. Nada mais, nada menos Player
+(opção Unica) E depois? Cdc Não existe depois Robô Motorista
+
+Introdução Começa com ele dentro de um carro, cercado por robôs do lado
+esquerdo da segunda metade da cidade Robo MOtorista (buzina) O Sinal tá
+verde!, anda! O Player mata os robos Robo Motorista Entra ai, eu vou te
+dar uma carona O Player entra no carro Cutscene A camera fica em
+primeira pessoa com o Player dentro do carro do robô motorista O robo
+fica trocando de marcha, mexendo no volante e olhando pros lados, o
+carro obviamente nã tá mexendo Robo Motorista O Transito tá de matar
+hoje! A camera mexe pro lado e tem um esqueleto do lado do Player Robo
+Motorista Quer uma balinha? O Player sai do carro A camera foca nos
+pneus (No caso, na falta de pneus) Robo Motorista Os pneus tão um pouco
+desgastados
+
+No lado direito da segunda cidade, tem uns pneus que podem ser levados
+de volta para o robô motorista Tendo os pneus no inventario e
+interagindo com o robô motorista: Robo Motorista Ah, pneus novos! Eu vou
+estar de volta na estrada daqui a pouquinho!
+
+Predio
