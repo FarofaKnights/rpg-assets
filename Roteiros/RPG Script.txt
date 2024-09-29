@@ -52,7 +52,7 @@ Robo do Claudio
 Isso ai é com ele
 
 Vendedor:
-- Um vendedor com o seu fiel gato robô, ele também quer sair da cidade, mas também quer lucrar, meio doido
+- Um vendedor com o seu fiel gato robô, ele quer se tornar um robô e ficar imortal, majoritariamente porque ele tá ficando doido pelos implantes mal implementados na cabeça dele, mas também quer lucrar, meio doido
 
 Caçadora de Ciborgues
 Cruel, bem babaca e agressiva, ela odeia ciborgues, mas esta disposta a receber ajuda de um por enquanto, ela tem ficado cada vez mais instavel desde que perdeu sua familia, e tem apenas um objetivo: chegar a sede nacional da PantheON e confrontar o homem que causou o fim do mundo
@@ -81,7 +81,62 @@ Lembrem-se quando o frio vier
 Uma imagem de uma nevasca em uma cidade destruida
 Narrador
 A terra terá tanta misericordia com vocês quanto vocês tiveram com ela
+
+
+
+
+
+
+
+
+
+
+
 	CIDADE
+
+	ROBÔ EMPREGADA
+
+	Cutscene de introdução
+Começa ao entrar na fase
+Ela tá de costas pro Player, enacarando o Prédio da proxima fase
+O Player se aproxima dela e ela vira pro Player
+RObo EMpregada
+Olá. Eu estava observando o meu objetivo
+Player (opção Unica)
+Objetivo?
+Robo Empregada
+Atravessar a sede global da PantheON e alcançar a industria de onde eu venho, lá também é o unico cainho para fora da cidade. Por enquanto eu recomendo que você utilize o aquecedor a minha direita para descansar, o caminho até aqui não deve ter sido facil
+Resultado: Volta pra Gameplay e libera interações com ela
+	Dialogos Na cidade - ROBÔ EMPREGADA
+Robo Empregada
+Olá
+Opção1
+Porque você quer ir a industria?
+Robo Empregada
+Para encontrar a fonte da insanidade dos outros robôs e concerta-la. Se você estiver disposto a me ajudar eu posso te transformar em um robô também, E assim você será imortal
+Resultado: Volta para a escolha de dialogos
+Opção2
+Tem mais alguém vivo?
+Robo Empregada
+Até onde sei, nenhum dos outros sobreviventes pereceram, portanto, existem 3 seres humanos vivos na cidade
+Resultado: Volta para a escolha de dialogos
+Opção3
+O que é a PatheON?
+Robo Empregada
+PantheON é o conglomerado que lidera as seguintes Industrias: Saude, alimentação, Robotica, Mecânica, minerador, moda e aparência, armamentista, esportivo, entre outros, a PantheON também é tecnicamente o meu pai e a minha mãe
+Resultado: Volta para a escolha de dialogos
+Opção4
+Por que você não está agressiva?
+Robo Empregada
+Sinais são enviados periodicamente pela industria da  Machina para garantir que os robôs funcionem como o planejado. Eu fui desconectada da rede, portanto, algo nos sinais emitidos deve estar errado
+Opção5
+Faz quanto tempo que tudo começou?
+Robo Empregada
+Fazem: 736 dias desde fomos isolados do mundo pela tempestade, mas graças as paredes da PantheON, estamos seguros aqui dentro!
+
+
+
+
 
 	ADrian
 
@@ -117,8 +172,6 @@ Adrian
 Algo em mente?
 Opção1
 Precisa de ajuda?
-
-
 Adrian
 (Tosse)Já que você perguntou… O meu tanque de oxigênio tá acabando, normalmente eu mesmo acharia outro, mas bem… eu tenho bem pouco tempo restante
 Player (opção unica)
@@ -132,7 +185,7 @@ Tendo o item em mãos libera a opção de dialogo 5
 Opção2
 Você quer sair da cidade?
 Adrian
-E você não? olha em volta, tudo destruido, todo mundo morto… Eu não como já tem alguns dias, lá fora pode até estar igual, eu sei, mas eu prefiro me arriscar saindo do que me arriscar ficando
+E você não? olha em volta, tudo destruido, todo mundo morto… Eu não como já tem alguns dias. E lá fora tem a tempestade, eu sei, mas depois dela, quem sabe? Talvez exista algo melhor
 Resultado: Volta pro dialogo
 Opção3
 O que aconteceu com você?
@@ -163,6 +216,26 @@ Resultado: Sai do dialogo + alguma recompensa + credito social da avenida
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	Vendedor
 
 	Cutscene de introdução
@@ -178,7 +251,7 @@ Indo pra loja do vendedor, tem mais interações
 	Dialogos  Na cidade - VENDEDOR 
 Primeira Interação: 
 Vendedor
-Eu ouvi daquela robôzinha *ESQUISITA* de um lugar onde eu poderia me transformar totalmente em um robô, imagina, não ter que comer, *DEFECAR*, viver pra sempre
+Eu ouvi daquela robôzinha *ESQUISITA* de um lugar onde eu poderia me transformar totalmente em um robô, imagina, não ter que comer, *DEFECAR*, poder viver pra sempre
 Opção1
 Tentador
 Mais um credito social Industria
@@ -190,8 +263,6 @@ Mais um credito social avenida
 Vendedor
 *MAIS PRA MIM* se você diz, eu não vou dispensar essa oportunidade
 Resultado: Sai do dialogo
-
-
 Vendedor
 Bom dia, amigo *COMPRA OU VAZA*, quer olhar o meu estoque?
 Opção1
@@ -207,6 +278,7 @@ Você vai me contar o seu nome agora?
 Vendedor
 Quantos vezes eu tenho que dizer? O meu nome *NÃO É DA SUA CONTA* é uma informação irrelevante. Agora você vai comprar algo ou não?
 Resultado: Volta pras opções de dialogo
+
 
 
 
@@ -300,6 +372,10 @@ No lado direito da segunda cidade, tem uns pneus que podem ser levados de volta 
 Tendo os pneus no inventario e interagindo com o robô motorista:
 Robo Motorista
 Ah, pneus novos! Eu vou estar de volta na estrada daqui a pouquinho!
+//////////////////////////////////////////////////////////
+Lembrete aqui, já que o Iago tá linearizando a cidade: 
+Seria bom que o prédio fosse na saida e que as paredes em volta da cidade não terminassem no limite da area atravessavel
+//////////////////////////////////////////////////////////
 
 
 
@@ -354,3 +430,130 @@ Ah, pneus novos! Eu vou estar de volta na estrada daqui a pouquinho!
 	Predio
 
 	
+No terreo do Prédio está o Sniper e o vendedor, no ultimo andar está a robô empregada e ao abrir o cofre, tem uma Cutscene com a caçadora de Ciborgues
+	Dialogos No predio - ADRIAN
+Adrian
+Aquela sua amiga maluca entrou no cofre e se trancou lá dentro. Não me pergunte o porque
+Opção1
+Eu preciso atravessar o prédio
+Adrian
+Eu também, parece que esses cartões liberam as portas trancadas, mas eu não achei o cartão pra saida. Deve estar em alguma parte do prédio
+Resultado: sai do dialogo
+Adrian
+Algo em mente?
+Opção1
+Vocë náo vai explorar o prédio?
+Adrian
+Eu não gostei dos barulhos que eu escutei vindo de cima, então eu vou ficar quietinho aqui mesmo
+Opção2
+O quão longe é a saida da cidade?
+Adrian
+Sainda daqui é só pegar a avenida pra direita, se você sobreviver o caminho, parabéns, você tá livre
+Opção3
+Por que ela se trancou lá?
+
+Adrian
+Eu não disse pra você não me perguntar? Eu tento não falar com ela, sabendo o que ela sente sobre pessoas como a gente
+	Dialogos  NO Prédio - VENDEDOR
+Vendedor
+Bom te ver aqui, parceiro
+Player (opção Unica)
+O que você tá fazendo aqui?
+Vendedor
+Eu preciso ir onde a demanda está, é o basico do *OPORTUNISMO* capitalismo. Também, aquilo que eu te contei, da imortalidade, o caminho passa por aqui, você pensou sobre?
+Opção1
+Eu não quero virar um robô
+Mais 2 credito social avenida
+Vendedor
+*IDIOTA* E qual é a outra opção? Ir embora, torcer para sobreviver a tempestade e torcer pra ter algo sobrando depois? Faça como quiser *IMBECIL*
+Opção2
+Eu gosto da ideia
+Vendedor
+Exato, exato, você é *MENOS IDIOTA* mais esperto do que eu pensava
+Resultado: Sai do dialogo e libera as mesmas interações da cidade
+	Dialogos No prédio - Robô empregada
+
+	Cutscene - Predio
+Começa ao interagir com o cofre
+A gente escuta o som de porta abrindo
+A camera muda pro lado e a porta pra sair do prédio tá aberta
+O Adrian sai por ela
+A camera volta pro cofre, a caçadora de Ciborgues sai de dentro
+Cdc
+Você acredita nisso? O presidente da PantheON estava lá dentro, o responsavel por isso tudo. Vivo, com anos de suprimento sobrando, é o que eu te disse: Ninguém nessa cidade é humano. Você ainda planeja sair daqui?
+Opção1
+Sim
+Mais 2 credito social avenida
+Cdc
+Você não vai. Nem você, nem eu, nem aquele vendedor fajuto, nem aquele seu amigo Sniper. Eu recomendo que você nem tente
+Opção2
+Não
+Mais 2 credito social Industria
+Cdc
+Otimo
+Ela sai andando
+Volta pra Gameplay
+Saindo do prédio, tem um caminho reto, cheio de carros destruido e no final do caminho tem um onibus atravessado, com só um cantinho permitindo passar
+Gente em 25% do caminho a camera da um zoom no Adrian encima do onibus, apontando a Sniper pro Player
+Adrian
+Desculpa, mas eu vou precisar das suas coisas pra sobreviver a tempestade.
+O Player tem que andar o resto do caminho, usando o Dash entre os carros pra se proteger dos tiros do Adrian 
+Chegando no final do caminho, O Adrian pula pra trás, saindo de cima do onibus.
+Adrian
+Você não precisava complicar isso
+O Player passa pelo cantinho e chega em uma arena improvisada. É um resto de rua que termina em uma bufurcação. Tem uns carros também que servem de cover, O Adrian usa a sniper, a pistola e a pá pra atacar o Player
+Vencendo o Adrian, ele só cai morto
+	Cutscene - DECISÃO
+Se os creditos sociais da Avenida forem maiores, o protagonista anda pra direita na bifurcação, caso contrario ele vai pra esquerda
+De qualquer maneira, tem um fade out enquanto ele anda
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Avenida
+
+	
+O Player tá no meio de uma nevasca gigantesca (aquela mecânica) e tem que ir andando, se protegendo dentro de constrções destruidas e atrás de carros
+No final da fase tem um mini tunel, onde a nevasca não é tão forte (Com um aquecedor no começo), dentro, está nada mais, nada menos que a Caçadora de ciborgues, dessa vez usando a mascara
+O Player vai andando em direção a ela enquanto ela fala
+Cdc
+Eu sabia que você não ia desistir tão facil. Você não vai passar daqui. Não enquanto eu estiver viva
+Ai tem a Boss Fight
+Vencendo ela, o Player pode atravessar o tunel
+	Cutscene final - AVENIDA
+Dá um fade pro protagonista ainda atrevessando a nevasca na avendia 
+Se não tiver ajudado o Robô Motorista termina ai. Come ele andando pela nevasca
+MAS
+Se tiver ajudado o Robô motorista:
+Do nada surgem duas luzes redondas batendo nas costas do protagonista
+Depois, um barulho de carro
+O Protagonista para, no meio da nevasca, a imagem de um carro lentamente se forma
+O carro se aproxima e para do lado do Protagonista
+A janela do banco do passageiro abre, revelando, dentro do carro, com duas mãos no volante o Robô motorista
+Robo Motorista
+Quer uma carona?
+
+	INdustria
+
+	
+Tenho ainda que incluir as coisas da robô empregada, mas como foi decidido que eu vou escrever ela também recentemente, eu não decidi tudo dela ainda, atualizo o mais cedo possivel
+O importante por enquanto é o final, o Vendedor tá em frente a maquina que pode transformar todo o seu corpo em robô, e ele tá dando uns espasmos
+	Cutscene - INDUSTRIA
+O Vendedor vira pro Player
+Vendedor
+*Ah, você quer pegar o que é meu, não é? Eu não vou deixar! A imortalidade é minha, só minha, só minha, só minha e só…*
+Ele puxa uma arma? Não sei se é pra ele lutar na mão
+Vendedor
+*MINHA!!!!!!!!!*
+Ai tem a boss fight
+Depois de vencer, o Player pode/deve interagir com a maquina
+E o jogo termina com o protagonista entrando na maquina, também com algo relacionado a Robô empregada, vou pensar nisso depois
